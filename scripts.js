@@ -151,3 +151,8 @@ function wpcf7ClearResponseOutput() {
 	jQuery('span.wpcf7-not-valid-tip').remove();
 	jQuery('img.ajax-loader').css({ visibility: 'hidden' });
 }
+function wpcf7ClearResponseOutput() {
+	jQuery('div.wpcf7-response-output').hide().empty().removeClass('wpcf7-mail-sent-ok wpcf7-mail-sent-ng wpcf7-validation-errors wpcf7-spam-blocked');
+	jQuery('span.wpcf7-not-valid-tip').remove();
+	jQuery('img.ajax-loader').css({ visibility: 'hidden' });
+}
