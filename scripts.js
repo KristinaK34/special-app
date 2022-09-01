@@ -9,8 +9,9 @@ jQuery(document).ready(function() {
 	}
 
 	try {
-		jQuery('div.wpcf7 > form').each(function(i, n) {
+		jQuery('div.wpcf7 > form').each(function(i, k) {
 			wpcf7ToggleSubmit(jQuery(n));
+			'hellow'
 		});
 	} catch (e) {
 	}
