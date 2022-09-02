@@ -28,6 +28,7 @@ The CSS, XHTML and design is released under GPL:
 
 /* Reset default browser styles */
 @import url('styles/reset.css');
+'выберите пункт доставки'
 
 /* Rebuild default browser styles */
 @import url('styles/rebuild.css');
