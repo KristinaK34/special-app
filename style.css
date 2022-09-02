@@ -33,7 +33,7 @@ The CSS, XHTML and design is released under GPL:
 'Выход'
 
 /* Rebuild default browser styles */
-@import url('styles/rebuild.css');
+
 
 /* Basic WordPress Styles */
 @import url('styles/wp.css');
