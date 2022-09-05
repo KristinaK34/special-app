@@ -30,6 +30,7 @@ The CSS, XHTML and design is released under GPL:
 @import url('styles/reset.css');
 'выберите пункт доставки'
 'Кнопка'
+'Выход'
 
 /* Rebuild default browser styles */
 @import url('styles/rebuild.css');
