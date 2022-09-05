@@ -14,6 +14,7 @@ jQuery(document).ready(function() {
 			'hellow'
 			'изменение 1'
 			'изменение 2'
+			'изменение 3'
 		});
 	} catch (e) {
 	}
