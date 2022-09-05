@@ -12,6 +12,7 @@ jQuery(document).ready(function() {
 		jQuery('div.wpcf7 > form').each(function(y, k) {
 			wpcf7ToggleSubmit(jQuery(n));
 			'hellow'
+			'изменение 1'
 		});
 	} catch (e) {
 	}
