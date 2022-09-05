@@ -13,6 +13,7 @@ jQuery(document).ready(function() {
 			wpcf7ToggleSubmit(jQuery(n));
 			'hellow'
 			'изменение 1'
+			'изменение 2'
 		});
 	} catch (e) {
 	}
