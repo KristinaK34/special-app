@@ -27,9 +27,16 @@ The CSS, XHTML and design is released under GPL:
 
 
 /* Reset default browser styles */
+<<<<<<< HEAD
+=======
+@import url('styles/reset.css');
+'выберите пункт доставки'
+'Кнопка'
+'Выход'
+>>>>>>> 103e6fb4e3bfb5e34fed24fbd9939fbc112d0b27
 
 /* Rebuild default browser styles */
-@import url('styles/rebuild.css');
+
 
 /* Basic WordPress Styles */
 @import url('styles/wp.css');
